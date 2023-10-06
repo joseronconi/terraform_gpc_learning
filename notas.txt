@@ -1,0 +1,2 @@
+// listar todas as imagens
+gclound compute images list 
